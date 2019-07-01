@@ -36,12 +36,13 @@ When merging into `master`, we use the "squash and merge" method. This takes all
 ### Labels
 Below is a list of labels that we use in the repo and how we use them.
 
-| Label         | Description                                                                           |
-|---------------|---------------------------------------------------------------------------------------|
-| `bug`         | A bug concerning functionality in the app. (e.g. Users cannot sign into a service)    |
-| `ui-bug`      | A bug concerning UI elements. (e.g. The Search bar does not display properly)         |
-| `enhancement` | A new feature or change in the way a portion of the app functions or looks.           |
-| `help-wanted` | Issues that the Kleene team is looking for outside help on.                           |
-| `invalid`     | A non-issue or something that is working as intended.                                 |
-| `duplicate`   | A duplicate of another issue or pull request. Most likely will be closed.             |
-| `wontfix`     | Something the team has deemed unimportant for the time being. May be addressed later. |
+| Label           | Description                                                                           |
+|-----------------|---------------------------------------------------------------------------------------|
+| `bug`           | A bug concerning functionality in the app. (e.g. Users cannot sign into a service)    |
+| `ui bug`        | A bug concerning UI elements. (e.g. The Search bar does not display properly)         |
+| `enhancement`   | A new feature or change in the way a portion of the app functions or looks.           |
+| `help wanted`   | Issues that the Kleene team is looking for outside help on.                           |
+| `documentation` | Improvements or additions to documentation.                                           |
+| `invalid`       | A non-issue or something that is working as intended.                                 |
+| `duplicate`     | A duplicate of another issue or pull request. Most likely will be closed.             |
+| `wontfix`       | Something the team has deemed unimportant for the time being. May be addressed later. |
