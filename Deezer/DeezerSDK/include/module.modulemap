@@ -1,0 +1,40 @@
+module DeezerSDK {
+
+	header "Deezer+Compatibility.h"
+
+	header "DeezerConnect.h"
+	header "DeezerConnect+Compatibility.h"
+	header "DeezerRequestDelegate.h"
+
+	header "DZRNetworkRequest.h"
+	header "DZRRequestManager.h"
+	header "DZRCancelable.h"
+	header "DZRGenericCancelable.h"
+
+	header "DZRAlbum.h"
+	header "DZRArtist.h"
+	header "DZRComment.h"
+	header "DZREditorial.h"
+	header "DZREpisode.h"
+	header "DZRFolder.h"
+	header "DZRGenre.h"
+	header "DZRModel.h"
+	header "DZRObject.h"
+	header "DZRObject+Compatibility.h"
+	header "DZRManagedRadio.h"
+	header "DZRObjectList.h"
+	header "DZRPlayableArray.h"
+	header "DZRPlaylist.h"
+	header "DZRPodcast.h"
+	header "DZRRadio.h"
+	header "DZRTrack.h"
+	header "DZRUser.h"
+
+	header "DZRPlayer.h"
+
+	header "NSBundle+DZRBundle.h"
+	header "NSError+DZRPlayer.h"
+	header "NSError+DZRModel.h"
+
+	export *
+}

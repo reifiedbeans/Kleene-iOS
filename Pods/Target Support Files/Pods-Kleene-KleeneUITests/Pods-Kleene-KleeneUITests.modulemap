@@ -1,0 +1,6 @@
+framework module Pods_Kleene_KleeneUITests {
+  umbrella header "Pods-Kleene-KleeneUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
