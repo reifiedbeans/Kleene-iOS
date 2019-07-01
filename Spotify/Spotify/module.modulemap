@@ -1,0 +1,6 @@
+// This allows the Spotify framework to use Spotify's iOS SDK without exposing it.
+module SpotifyiOS {
+	// If things aren't working, check that this is correct.
+	header "../SpotifyiOS.framework/Headers/SpotifyiOS.h"
+	export *
+}

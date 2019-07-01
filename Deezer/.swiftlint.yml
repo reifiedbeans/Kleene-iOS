@@ -1,0 +1,10 @@
+disabled_rules:
+  - variable_name
+  - line_length
+  - nesting
+
+statement_position:
+  statement_mode: uncuddled_else
+
+cyclomatic_complexity:
+  ignores_case_statements: true

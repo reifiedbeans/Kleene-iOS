@@ -1,0 +1,6 @@
+framework module Pods_Kleene {
+  umbrella header "Pods-Kleene-umbrella.h"
+
+  export *
+  module * { export * }
+}
