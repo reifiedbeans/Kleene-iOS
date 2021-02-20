@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1FZzsre0hogkTCJ9-pfblxih_ujPiCurz" width="500px"/>
+  <img src="https://github.com/KleeneApp/Kleene-iOS/blob/main/docs/img/kleene-banner.png?raw=true" width="500px"/>
 </p>
 
 # Kleene
