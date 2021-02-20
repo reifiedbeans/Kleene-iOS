@@ -3,7 +3,7 @@ Thank you for taking the time to contribute to Kleene. Before you get started, r
 Any proposals for amendments to any of the documents referenced or this document itself can be submitted in the form of a pull request.
 
 ## Code of Conduct
-This project and everyone participating in it are governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Any concerns can be reported to [kleeneapp@gmail.com](mailto:kleeneapp@gmail.com).
+This project and everyone participating in it are governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Any concerns can be reported to one of the project maintainers.
 
 ## Getting Started
 
